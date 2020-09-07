@@ -11,3 +11,5 @@ Find your bucket destination and make your dreams come true by crossify
 
 ## 3. Phase - Virtualization
 
+---
+                                                            Martin Gajdoš
